@@ -1,5 +1,5 @@
-import { add } from "../math";
-import { multiply } from "../math";
+import { add  , multiply} from "../utils/math";
+
 
 const addHandler = () =>{
 //add functionality 
